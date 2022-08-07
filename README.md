@@ -14,6 +14,6 @@
     c. no.of hidden layers = 4 number_input_features = 116 , number_output_neurons = 1,  loss_function : binary_crossentropy, activation_function = sigmoid, epoch = 100, loss: 0.5589 - accuracy: 0.7312
 
    
-Note, ideally we want loss to coverage near 0 and accuracy towards 1  by increasing the layers to 4 & epoch=100 the loss decreased and accuracy increased slightly. 
+Note, ideally we want loss to converge near 0 and accuracy towards 1  by increasing the layers to 4 & epoch=100 the loss decreased and accuracy increased slightly. 
 
      
